@@ -1,5 +1,6 @@
 HomeWork 1
 
+list
 
 list copy korar jonno ki ki vebohar kora lagbe
 
@@ -15,5 +16,16 @@ liser data ke sojabo
 
 
 
+set
+
+"
+"
+"
+"
+"
+"
+
+
 HomeWork 2
+
 
