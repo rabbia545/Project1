@@ -42,8 +42,19 @@
 ##### Set  v
 
 
-teacher = {"Rab", 918822, "Computer", "Rab", 918822, "Computer", "Rab", 918822, "Computer", "Rab", 918822, "Computer",}
-print (teacher)
-# teacher[2] = "tech"
-print(teacher)
+# teacher = {"Rab", 918822, "Computer", "Rab", 918822, "Computer", "Rab", 918822, "Computer", "Rab", 918822, "Computer",}
+# print (teacher)
+# # teacher[2] = "tech"
+# print(teacher)
 
+
+#####dicsonary
+
+student = {
+    "Name":"Rab",
+    "Dep":"Computer",
+    "Roll":918822
+}
+print(student["Roll"])
+print(student["Dep"])
+print(student["Name"])

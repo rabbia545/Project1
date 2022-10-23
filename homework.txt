@@ -25,6 +25,16 @@ set
 "
 "
 
+dic
+
+
+update koara
+
+dic nirdisot value access
+dic remove
+dic count korar
+
+
 
 HomeWork 2
 
