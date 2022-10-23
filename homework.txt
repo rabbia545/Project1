@@ -1,0 +1,19 @@
+HomeWork 1
+
+
+list copy korar jonno ki ki vebohar kora lagbe
+
+list er bitor theke kivabe delete 
+
+puro list ke delete kora 
+
+list er ekadhik data gula ke count kora 
+
+data gulake reverse kora
+
+liser data ke sojabo 
+
+
+
+HomeWork 2
+
