@@ -45,3 +45,10 @@ variable length argument
 HomeWork 2
 
 
+
+funtion all
+class all
+lumbda all
+
+
+
