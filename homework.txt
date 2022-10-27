@@ -36,6 +36,12 @@ dic count korar
 
 
 
+
+#### args
+
+
+variable length argument
+
 HomeWork 2
 
 
