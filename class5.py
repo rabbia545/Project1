@@ -1,9 +1,9 @@
 
 
 
-# # def x ():
-# #     print ("Hafiz, Where are you from?i am now in patharghata.")
-# # x()
+def x ():
+    print ("Hafiz, Where are you from?i am now in patharghata.") 
+x()
 
 
 
@@ -93,8 +93,6 @@
 
 
 
-from keyword import kwlist
-
 
 def iron (**kwargs):
     sum=0
@@ -121,3 +119,4 @@ print(man)
 product=lambda a,b,c : a+b+c
 r = product(80,90,62)
 print(r)
+
